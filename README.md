@@ -3,4 +3,4 @@
 
 # ssa-magnet
 
-Command line application for exporting data within a year range from [The United States Social Security Administration]'s [popularnames.cgi] endpoint.
+Command line application for exporting data within an inclusive year range from [The United States Social Security Administration]'s [popularnames.cgi] endpoint.
